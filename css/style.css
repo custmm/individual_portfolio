@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #d5dee8;
+}
+body.web{
+    background-color: #899aab;
+}
+
+div img {
+  margin: 0 auto;
+  display: block;
+}
+
+.fixed {
+  position: fixed;
+  right: 100px;
+  bottom: 120px;
+}
+
+.fixed:hover {
+  opacity: 0.8;
+}
+
+.fixed2 {
+  position: fixed;
+  right: 100px;
+  bottom: 30px;
+}
+
+.fixed2:hover {
+  opacity: 0.8;
+}
+
+.guide img{
+    display: flex;
+    width: 1320px;
+    display: block;
+}
+
+.about img{
+  width: 600px;
+}
+
+.icon_wrap img{
+  width: 60px;
+  padding-bottom: 20px;
+
+}
