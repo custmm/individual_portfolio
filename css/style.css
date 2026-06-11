@@ -80,6 +80,10 @@ div img {
 
 /* 🔥 resume */
 /* 타임라인 */
+
+#resume h2{
+  text-align: center;
+}
 .timeline {
   position: relative;
   margin-top: 80px;
