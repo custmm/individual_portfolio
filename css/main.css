@@ -791,6 +791,7 @@ h1 {
 
 h2 {
   font-size: 30px;
+  text-align: center;
 }
 
 h3 {
@@ -2283,7 +2284,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/init_bg.png) center;
   background-size: cover;
       /* 애니메이션 적용 */
 }
@@ -2296,7 +2296,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 768px) {
   .banner-area {
-    background: url(../img/init_bg.png);
     background-position: 50% 90% 50% 50%;
   }
 }
